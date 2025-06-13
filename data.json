@@ -48,30 +48,6 @@
     "poster": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg"
   },
   {
-    "name": "Frozen",
-    "description": "Пригоди сміливої принцеси Анни, яка вирушає в небезпечну подорож разом з крижаним продавцем Кристофом, його вірним оленем Свеном і сніговиком Олафом, щоб знайти свою сестру Ельзу, чиї крижані сили засудили королівство вічній зимі.",
-    "rating": 7.4,
-    "genre": "Animation, Adventure, Comedy",
-    "actors": [
-      "Kristen Bell",
-      "Idina Menzel",
-      "Jonathan Groff"
-    ],
-    "poster": "https://upload.wikimedia.org/wikipedia/en/0/05/Frozen_%282013_film%29_poster.jpg"
-  },
-  {
-    "name": "The Lion King",
-    "description": "Історія про молодого лева Сімби, який має стати королем савани після смерті свого батька Муфаси. Проте його дядько Шрам має інші плани і вбиває Муфасу, щоб захопити владу. Сімба вирушає у вигнання, де знаходить нових друзів, які допомагають йому повернутися і відвоювати своє королівство.",
-    "rating": 8.5,
-    "genre": "Animation, Adventure, Drama",
-    "actors": [
-      "Matthew Broderick",
-      "Jeremy Irons",
-      "James Earl Jones"
-    ],
-    "poster": "https://upload.wikimedia.org/wikipedia/en/3/3d/The_Lion_King_poster.jpg"
-  },
-  {
     "name": "Jurassic Park",
     "description": "Мільярдер-ентузіаст створює парк розваг з клонованими динозаврами, але все йде не за планом, коли динозаври вириваються на волю і починають полювати на відвідувачів парку.",
     "rating": 8.1,
