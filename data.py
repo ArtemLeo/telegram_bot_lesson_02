@@ -1,4 +1,3 @@
-# Імпорт бібліотеки json
 import json
 
 

@@ -1,8 +1,10 @@
 from aiogram.filters import Command
 from aiogram.types.bot_command import BotCommand
 
-FILMS_COMMAND = Command('films')
 START_COMMAND = Command('start')
+FILMS_COMMAND = Command('films')
 
-FILMS_BOT_COMMAND = BotCommand(command='films', description="Перегляд списку фільмів")
-START_BOT_COMMAND = BotCommand(command='start', description="Почати розмову")
+BOT_COMMANDS = [
+    BotCommand(command='start', description="Почати розмову"),
+    BotCommand(command='films', description="Перегляд списку фільмів")
+]
